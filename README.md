@@ -5,8 +5,6 @@
 **Team Members:**  
 - Narasimha Sainikhil Marisetty  
 - Adam Absa  
-- Vladislav Kondratyev  
-- Sammy ElHindi  
 - Ayman Mohammad  
 
 ---
@@ -76,10 +74,4 @@ Integrating **Textract** and **Comprehend** for resume parsing required careful 
 
 This project taught us how to **orchestrate multiple AWS AI services** into a cohesive, autonomous system.
 
----
 
-## 9. Key Project Links
-- **GitHub Repository:** [Add link here]  
-- **Live App URL:** [Add link here]  
-- **Video Demo URL:** [Add link here]  
-- **README Instructions:** Included in GitHub repository.  
